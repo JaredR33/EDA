@@ -12,4 +12,8 @@ The project was implemented using Python, along with several libraries, includin
 For the **RESULTS**, please refer to the file named Presentacion ESP.pptx in this repository.
 For the **CODE AND MEMORY**, check the notebooks folder.
 
+Based on the analysis, the project concludes that:
+ 1 - Yes, inmigrants receive up to a 20% lower income than spanish citizens
+ 2 - Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain.
+
 Thank you for being interested in this project!
