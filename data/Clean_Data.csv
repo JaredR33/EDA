@@ -1,0 +1,274 @@
+	Nacionalidad	Sexo	Periodo	Total
+0	Total	Ambos sexos	2020	25165.51
+1	Total	Ambos sexos	2019	24395.98
+2	Total	Ambos sexos	2018	24009.12
+3	Total	Ambos sexos	2017	23646.5
+4	Total	Ambos sexos	2016	23156.34
+5	Total	Ambos sexos	2015	23106.3
+6	Total	Ambos sexos	2014	22858.17
+7	Total	Ambos sexos	2013	22697.86
+8	Total	Ambos sexos	2012	22726.44
+9	Total	Ambos sexos	2011	22899.35
+10	Total	Ambos sexos	2010	22790.2
+11	Total	Ambos sexos	2009	22511.47
+12	Total	Ambos sexos	2008	21883.42
+13	Total	Mujeres	2020	22467.48
+14	Total	Mujeres	2019	21682.02
+15	Total	Mujeres	2018	21011.89
+16	Total	Mujeres	2017	20607.85
+17	Total	Mujeres	2016	20131.41
+18	Total	Mujeres	2015	20051.58
+19	Total	Mujeres	2014	19744.82
+20	Total	Mujeres	2013	19514.58
+21	Total	Mujeres	2012	19537.33
+22	Total	Mujeres	2011	19767.59
+23	Total	Mujeres	2010	19735.22
+24	Total	Mujeres	2009	19502.02
+25	Total	Mujeres	2008	18910.62
+26	Total	Hombres	2020	27642.52
+27	Total	Hombres	2019	26934.38
+28	Total	Hombres	2018	26738.19
+29	Total	Hombres	2017	26391.84
+30	Total	Hombres	2016	25924.43
+31	Total	Hombres	2015	25992.76
+32	Total	Hombres	2014	25727.24
+33	Total	Hombres	2013	25675.17
+34	Total	Hombres	2012	25682.05
+35	Total	Hombres	2011	25667.89
+36	Total	Hombres	2010	25479.74
+37	Total	Hombres	2009	25001.05
+38	Total	Hombres	2008	24203.33
+39	Española	Ambos sexos	2020	25690.74
+40	Española	Ambos sexos	2019	24936.03
+41	Española	Ambos sexos	2018	24440.21
+42	Española	Ambos sexos	2017	24116.92
+43	Española	Ambos sexos	2016	23605.82
+44	Española	Ambos sexos	2015	23543.48
+45	Española	Ambos sexos	2014	23237.94
+46	Española	Ambos sexos	2013	23181.18
+47	Española	Ambos sexos	2012	23232.42
+48	Española	Ambos sexos	2011	23429.41
+49	Española	Ambos sexos	2010	23335.39
+50	Española	Ambos sexos	2009	23018.58
+51	Española	Ambos sexos	2008	22485.64
+52	Española	Mujeres	2020	22894.3
+53	Española	Mujeres	2019	22139.13
+54	Española	Mujeres	2018	21365.1
+55	Española	Mujeres	2017	20929.88
+56	Española	Mujeres	2016	20463.42
+57	Española	Mujeres	2015	20397.98
+58	Española	Mujeres	2014	20038.72
+59	Española	Mujeres	2013	19886.49
+60	Española	Mujeres	2012	19948.76
+61	Española	Mujeres	2011	20166.43
+62	Española	Mujeres	2010	20141.15
+63	Española	Mujeres	2009	19871.83
+64	Española	Mujeres	2008	19383.63
+65	Española	Hombres	2020	28312.74
+66	Española	Hombres	2019	27594.47
+67	Española	Hombres	2018	27303.22
+68	Española	Hombres	2017	27059.95
+69	Española	Hombres	2016	26545.04
+70	Española	Hombres	2015	26555.82
+71	Española	Hombres	2014	26234.9
+72	Española	Hombres	2013	26299.66
+73	Española	Hombres	2012	26298.33
+74	Española	Hombres	2011	26361.3
+75	Española	Hombres	2010	26196.46
+76	Española	Hombres	2009	25670.73
+77	Española	Hombres	2008	24943.85
+78	País de la UE28 sin España	Ambos sexos	2020	21832.44
+79	País de la UE28 sin España	Ambos sexos	2019	20795.83
+80	País de la UE28 sin España	Ambos sexos	2018	20999.87
+81	País de la UE28 sin España	Ambos sexos	2017	19975.81
+82	País de la UE28 sin España	Ambos sexos	2016	18870.52
+83	País de la UE28 sin España	Ambos sexos	2015	19145.87
+84	País de la UE28 sin España	Ambos sexos	2014	20327.35
+85	País de la UE28 sin España	Ambos sexos	2013	17987.83
+86	País de la UE28 sin España	Ambos sexos	2012	17442.58
+87	País de la UE28 sin España	Ambos sexos	2011	17892.58
+88	País de la UE28 sin España	Ambos sexos	2010	18637.2
+89	País de la UE28 sin España	Ambos sexos	2009	17235.14
+90	País de la UE28 sin España	Ambos sexos	2008	16823.08
+91	País de la UE28 sin España	Mujeres	2020	18741.52
+92	País de la UE28 sin España	Mujeres	2019	17734.72
+93	País de la UE28 sin España	Mujeres	2018	17320.07
+94	País de la UE28 sin España	Mujeres	2017	17603.79
+95	País de la UE28 sin España	Mujeres	2016	16061.0
+96	País de la UE28 sin España	Mujeres	2015	16192.19
+97	País de la UE28 sin España	Mujeres	2014	16911.69
+98	País de la UE28 sin España	Mujeres	2013	15207.0
+99	País de la UE28 sin España	Mujeres	2012	14585.44
+100	País de la UE28 sin España	Mujeres	2011	15165.3
+101	País de la UE28 sin España	Mujeres	2010	15957.12
+102	País de la UE28 sin España	Mujeres	2009	15089.04
+103	País de la UE28 sin España	Mujeres	2008	14649.58
+104	País de la UE28 sin España	Hombres	2020	24451.69
+105	País de la UE28 sin España	Hombres	2019	23614.73
+106	País de la UE28 sin España	Hombres	2018	24203.64
+107	País de la UE28 sin España	Hombres	2017	21835.66
+108	País de la UE28 sin España	Hombres	2016	21361.12
+109	País de la UE28 sin España	Hombres	2015	21873.31
+110	País de la UE28 sin España	Hombres	2014	23417.97
+111	País de la UE28 sin España	Hombres	2013	20528.19
+112	País de la UE28 sin España	Hombres	2012	20102.74
+113	País de la UE28 sin España	Hombres	2011	20159.89
+114	País de la UE28 sin España	Hombres	2010	20843.77
+115	País de la UE28 sin España	Hombres	2009	18641.89
+116	País de la UE28 sin España	Hombres	2008	18354.43
+117	País de Europa menos UE28	Ambos sexos	2020	19852.61
+118	País de Europa menos UE28	Ambos sexos	2019	17258.29
+119	País de Europa menos UE28	Ambos sexos	2018	16788.31
+120	País de Europa menos UE28	Ambos sexos	2017	16325.34
+121	País de Europa menos UE28	Ambos sexos	2016	15948.73
+122	País de Europa menos UE28	Ambos sexos	2015	15367.6
+123	País de Europa menos UE28	Ambos sexos	2014	15147.39
+124	País de Europa menos UE28	Ambos sexos	2013	14994.68
+125	País de Europa menos UE28	Ambos sexos	2012	14482.5
+126	País de Europa menos UE28	Ambos sexos	2011	16518.28
+127	País de Europa menos UE28	Ambos sexos	2010	16400.42
+128	País de Europa menos UE28	Ambos sexos	2009	14137.08
+129	País de Europa menos UE28	Ambos sexos	2008	14330.03
+130	País de Europa menos UE28	Mujeres	2020	16421.07
+131	País de Europa menos UE28	Mujeres	2019	15802.93
+132	País de Europa menos UE28	Mujeres	2018	15698.68
+133	País de Europa menos UE28	Mujeres	2017	14029.89
+134	País de Europa menos UE28	Mujeres	2016	13110.17
+135	País de Europa menos UE28	Mujeres	2015	12930.82
+136	País de Europa menos UE28	Mujeres	2014	12122.48
+137	País de Europa menos UE28	Mujeres	2013	13724.98
+138	País de Europa menos UE28	Mujeres	2012	12525.75
+139	País de Europa menos UE28	Mujeres	2011	14663.64
+140	País de Europa menos UE28	Mujeres	2010	14241.35
+141	País de Europa menos UE28	Mujeres	2009	12457.92
+142	País de Europa menos UE28	Mujeres	2008	13298.04
+143	País de Europa menos UE28	Hombres	2020	23677.28
+144	País de Europa menos UE28	Hombres	2019	18994.99
+145	País de Europa menos UE28	Hombres	2018	18087.06
+146	País de Europa menos UE28	Hombres	2017	18987.7
+147	País de Europa menos UE28	Hombres	2016	18097.43
+148	País de Europa menos UE28	Hombres	2015	19183.27
+149	País de Europa menos UE28	Hombres	2014	19432.43
+150	País de Europa menos UE28	Hombres	2013	17199.4
+151	País de Europa menos UE28	Hombres	2012	17122.95
+152	País de Europa menos UE28	Hombres	2011	19415.56
+153	País de Europa menos UE28	Hombres	2010	18711.07
+154	País de Europa menos UE28	Hombres	2009	16187.64
+155	País de Europa menos UE28	Hombres	2008	15382.91
+156	De Africa	Ambos sexos	2020	16784.02
+157	De Africa	Ambos sexos	2019	16423.35
+158	De Africa	Ambos sexos	2018	16315.07
+159	De Africa	Ambos sexos	2017	14637.18
+160	De Africa	Ambos sexos	2016	14083.08
+161	De Africa	Ambos sexos	2015	14756.32
+162	De Africa	Ambos sexos	2014	14870.39
+163	De Africa	Ambos sexos	2013	14463.26
+164	De Africa	Ambos sexos	2012	14938.38
+165	De Africa	Ambos sexos	2011	15721.63
+166	De Africa	Ambos sexos	2010	15387.37
+167	De Africa	Ambos sexos	2009	15564.9
+168	De Africa	Ambos sexos	2008	14744.91
+169	De Africa	Mujeres	2020	13840.89
+170	De Africa	Mujeres	2019	13162.24
+171	De Africa	Mujeres	2018	13058.63
+172	De Africa	Mujeres	2017	11422.91
+173	De Africa	Mujeres	2016	11232.7
+174	De Africa	Mujeres	2015	12192.88
+175	De Africa	Mujeres	2014	11991.31
+176	De Africa	Mujeres	2013	11165.98
+177	De Africa	Mujeres	2012	11931.73
+178	De Africa	Mujeres	2011	11840.96
+179	De Africa	Mujeres	2010	12728.61
+180	De Africa	Mujeres	2009	11980.15
+181	De Africa	Mujeres	2008	10802.75
+182	De Africa	Hombres	2020	17566.16
+183	De Africa	Hombres	2019	17580.74
+184	De Africa	Hombres	2018	17435.89
+185	De Africa	Hombres	2017	15694.59
+186	De Africa	Hombres	2016	14961.12
+187	De Africa	Hombres	2015	15689.62
+188	De Africa	Hombres	2014	15680.46
+189	De Africa	Hombres	2013	15632.2
+190	De Africa	Hombres	2012	16182.09
+191	De Africa	Hombres	2011	17070.84
+192	De Africa	Hombres	2010	16019.59
+193	De Africa	Hombres	2009	16333.93
+194	De Africa	Hombres	2008	15635.32
+195	De América	Ambos sexos	2020	16100.85
+196	De América	Ambos sexos	2019	15794.1
+197	De América	Ambos sexos	2018	16573.81
+198	De América	Ambos sexos	2017	15283.56
+199	De América	Ambos sexos	2016	14796.17
+200	De América	Ambos sexos	2015	14649.9
+201	De América	Ambos sexos	2014	15033.24
+202	De América	Ambos sexos	2013	14234.62
+203	De América	Ambos sexos	2012	14605.57
+204	De América	Ambos sexos	2011	14894.07
+205	De América	Ambos sexos	2010	14884.49
+206	De América	Ambos sexos	2009	14157.81
+207	De América	Ambos sexos	2008	13962.05
+208	De América	Mujeres	2020	14076.89
+209	De América	Mujeres	2019	13934.03
+210	De América	Mujeres	2018	13659.96
+211	De América	Mujeres	2017	13922.24
+212	De América	Mujeres	2016	12425.98
+213	De América	Mujeres	2015	12872.62
+214	De América	Mujeres	2014	13108.19
+215	De América	Mujeres	2013	12473.03
+216	De América	Mujeres	2012	12795.24
+217	De América	Mujeres	2011	13139.78
+218	De América	Mujeres	2010	13173.36
+219	De América	Mujeres	2009	12468.24
+220	De América	Mujeres	2008	11980.03
+221	De América	Hombres	2020	17929.05
+222	De América	Hombres	2019	17471.0
+223	De América	Hombres	2018	18725.15
+224	De América	Hombres	2017	16373.01
+225	De América	Hombres	2016	16371.48
+226	De América	Hombres	2015	16166.48
+227	De América	Hombres	2014	16511.96
+228	De América	Hombres	2013	15895.11
+229	De América	Hombres	2012	16477.28
+230	De América	Hombres	2011	16376.81
+231	De América	Hombres	2010	16460.58
+232	De América	Hombres	2009	15674.87
+233	De América	Hombres	2008	15676.6
+234	Otros países	Ambos sexos	2020	16433.04
+235	Otros países	Ambos sexos	2019	16060.84
+236	Otros países	Ambos sexos	2018	16443.13
+237	Otros países	Ambos sexos	2017	13873.92
+238	Otros países	Ambos sexos	2016	13409.01
+239	Otros países	Ambos sexos	2015	12519.6
+240	Otros países	Ambos sexos	2014	13454.65
+241	Otros países	Ambos sexos	2013	11960.85
+242	Otros países	Ambos sexos	2012	12439.67
+243	Otros países	Ambos sexos	2011	12268.55
+244	Otros países	Ambos sexos	2010	13964.71
+245	Otros países	Ambos sexos	2009	11868.31
+246	Otros países	Ambos sexos	2008	11896.77
+247	Otros países	Mujeres	2020	15742.51
+248	Otros países	Mujeres	2019	14444.86
+249	Otros países	Mujeres	2018	15127.93
+250	Otros países	Mujeres	2017	11144.56
+251	Otros países	Mujeres	2016	9459.96
+252	Otros países	Mujeres	2015	9269.16
+253	Otros países	Mujeres	2014	11108.65
+254	Otros países	Mujeres	2013	10073.56
+255	Otros países	Mujeres	2012	11486.4
+256	Otros países	Mujeres	2011	11355.96
+257	Otros países	Mujeres	2010	13145.77
+258	Otros países	Mujeres	2009	11856.730833333333
+259	Otros países	Mujeres	2008	9921.45
+260	Otros países	Hombres	2020	16774.91
+261	Otros países	Hombres	2019	16989.44
+262	Otros países	Hombres	2018	16852.76
+263	Otros países	Hombres	2017	14889.57
+264	Otros países	Hombres	2016	14957.77
+265	Otros países	Hombres	2015	14197.26
+266	Otros países	Hombres	2014	14562.14
+267	Otros países	Hombres	2013	12852.85
+268	Otros países	Hombres	2012	12887.57
+269	Otros países	Hombres	2011	12526.02
+270	Otros países	Hombres	2010	14229.75
+271	Otros países	Hombres	2009	12174.59
+272	Otros países	Hombres	2008	12774.99
