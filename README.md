@@ -9,7 +9,7 @@ Exploratory Data Analisys (EDA) about inmigration in Spain. The project was impl
 
 - Is there a gender diference between inmigrant´s salaries?
 
-- [Conclusion](# CONCLUSIONS)
+- [Conclusion](#CONCLUSIONS)
 
 
 For the **RESULTS**, please refer to the file named **Presentacion ESP.pptx** in this repository.
@@ -24,11 +24,12 @@ Based on the analysis, the project **concludes** that:
 
 + Yes, inmigrants receive up to a 20% lower income than spanish citizens
 
-![salarios-graph](graphs/Ingresos%20por%20año%20y%20nacionalidad.html)
+![salarios-graph](graphs/Distribución%20salarial%20anual%202008-2020%20sns.png)
 
 + Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain.
 
-![brecha-genero](graphs/Brecha%20salarial%20genero%20todos%20los%20años%20buena)
+![brecha-genero](graphs/Brecha%20salarial%20genero%20total%202008-2020%20evolucion)
 
 
 Thank you for taking the time to read about this EDA project.
+
