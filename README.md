@@ -1,4 +1,4 @@
-#### EDA
+# EDA
 
 Exploratory Data Analisys (EDA) about inmigration in Spain. The project was implemented using Python, along with several libraries, including Seaborn, Pandas, and Plotly. The data used in the analysis was obtained from the INE (National Statistics Institute) from Spain.
 
@@ -7,11 +7,9 @@ Exploratory Data Analisys (EDA) about inmigration in Spain. The project was impl
 
 - ## Do inmigrants receive a lower salary than people from Spain?
 
-![hipotesis](utils/Hipotesis.png)
 
 - ## Is there a gender diference between inmigrant´s salaries?
 
-![hipotesis_brecha](utils/Ditribucion%20salarial.png)
 
 - ## [Conclusion](#CONCLUSIONS)
 
@@ -26,13 +24,11 @@ For the **CODE AND MEMORY**, check the notebooks folder.
 
 Based on the analysis, the project **concludes** that:
 
-+ Yes, inmigrants receive up to a 20% lower income than spanish citizens
++ Inmigrants receive up to a 20% lower income than spanish citizens
 
-![salarios-graph](utils/porcentaje_evolucion.png)
+![salarios-graph](utils/Ditribucion&salarial.png)
 
-
-
-+ Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain. The next graph shows the difference in percentage comparing male and female salaries
++ Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain.
 
 ![brecha-genero](utils/Brecha%20genero.png)
 
