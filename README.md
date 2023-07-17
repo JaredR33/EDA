@@ -26,7 +26,7 @@ Based on the analysis, the project **concludes** that:
 
 + Inmigrants receive up to a 20% lower income than spanish citizens
 
-![salarios-graph](utils/Ditribucion&salarial.png)
+![salarios-graph](utils/Ditribucion%20salarial.png)
 
 + Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain.
 
