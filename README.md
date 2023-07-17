@@ -7,11 +7,9 @@ Exploratory Data Analisys (EDA) about inmigration in Spain. The project was impl
 
 - ## Do inmigrants receive a lower salary than people from Spain?
 
-![hipotesis](utils/Hipotesis.png)
 
 - ## Is there a gender diference between inmigrant´s salaries?
 
-![hipotesis_brecha](utils/Ditribucion%20salarial.png)
 
 - ## [Conclusion](#CONCLUSIONS)
 
