@@ -30,7 +30,9 @@ Based on the analysis, the project **concludes** that:
 
 ![salarios-graph](utils/porcentaje_evolucion.png)
 
-+ Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain.
+
+
++ Yes, regardless of their country of origin, the gender pay gap persists among immigrants in Spain. The next graph shows the difference in percentage comparing male and female salaries
 
 ![brecha-genero](utils/Brecha%20genero.png)
 
